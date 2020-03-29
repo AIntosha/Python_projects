@@ -6,7 +6,7 @@ from telegram.ext import MessageHandler, Filters
 
 
 # updater == frontend of telegram.bot
-updater = Updater(token='1094576304:AAFKUkLSX52kY6ebwggfO-AyTcocFSonWvc', use_context=True)
+updater = Updater(token='token', use_context=True)
 dispatcher = updater.dispatcher
 
 
