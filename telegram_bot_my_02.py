@@ -5,6 +5,7 @@
 4. Добавить несколько кнопок в /buttons
 5. Добавить красивую кнопку в меню /button1_cool
 6. Добавить несколько красивых в /buttons_cool
+somefixes
 '''
 
 # to answer to >>> regular messages
@@ -13,8 +14,6 @@ from telegram.ext import MessageHandler, Filters
 from telegram import InlineKeyboardButton, InlineKeyboardMarkup
 from telegram.ext import Updater, CommandHandler, CallbackQueryHandler
 from telegram import Sticker
-
-# smiles = ['🤔']
 
 # when someone /start >>> bot answer by def start
 def start(update, context):
