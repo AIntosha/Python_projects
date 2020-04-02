@@ -5,7 +5,7 @@
 4. Добавить несколько кнопок в /buttons
 5. Добавить красивую кнопку в меню /button1_cool
 6. Добавить несколько красивых в /buttons_cool
-somefixes
+somefixes working on v3
 '''
 
 # to answer to >>> regular messages
