@@ -5,7 +5,7 @@ import random
 import requests
 import os
 
-token = '1181966846:AAFTUiinUgP9lnO_pdUAzRPRY_fzauG4FGE'
+token = '--> TOKEN <--'
 bot = telebot.TeleBot(token)
 step = 0
 
