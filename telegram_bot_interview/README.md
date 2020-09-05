@@ -1,6 +1,6 @@
 # Telegram bot for interviews
 ### За 7 шагов бот покажет все основные возможности телеграм-ботов (и мои навыки, заодно)  
-Пощупать самому: @interview_mz_bot
+Пощупать самому: @interview_mz_bot  
 <img src="screen1.JPG" alt="example" width="250"/>  
 
 ---
